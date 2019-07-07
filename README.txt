@@ -1,0 +1,1 @@
+This repo usually contains homeworks and lecture notes from Kodluyoruz Akademi Python Bootcamp Ankara.
